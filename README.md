@@ -13,7 +13,7 @@
 
 
 
-Descrição do Projeto
+<strong><h3>Descrição do Projeto</h3></strong>
 
 
 Projeto de conclusão de módulo do curso profissionalizante de Ciência de Dados (Python). Uma iniciativa Ada Tech, em parceria com iFood.
@@ -30,21 +30,22 @@ Foram utilizadas as IDEs Jupyter, Google Collab e VS Code, em linguagem Python, 
 Os autores do projeto utilizaram, principalmente, os conceitos de Variáveis, If, For, Bool (While) e Funções.
 
 
-:hammer: Funcionalidades do projeto
+
+<h3><strong>Funcionalidades do projeto</strong></h3>
 
 - `Cadastrar restaurante`: permite que o usuário cadastre um restaurante hipotético
 - `Fazer pedido`: usuário escolhe até 3 itens para encomenda
 - `Sair do Menu`: permite que o usuário saia do loop/do menu.
 
 
-#Tecnologias Utilizadas:
+<strong><h3>Tecnologias Utilizadas</h3></strong>
 
 * Python 3.10
 * Jupyter, Google Collab e VS Code
 * Lógica de Programação
 
 
-# Autores
+<strong><h3>Autores</h3></strong>
 
 | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/102771445?v=4" width=115><br><sub>Alan H. C. Silva</sub>](https://github.com/alanhcs) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/60658504?v=4" width=115><br><sub>Iago Pereira</sub>](https://github.com/Iago-Pereira) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/134566931?v=4" width=115><br><sub>Lisnane</sub>](https://github.com/Lisnane) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/143959998?v=4" width=115><br><sub>Marcia Oliveira</sub>](https://github.com/MarciRDev) | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/140340107?v=4" width=115><br><sub>Tamira Aboganem</sub>](https://github.com/Tamira819)
 | :---: | :---: | :---: | :---: | :---: |
