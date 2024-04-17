@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img loading="lazy" src="https://64.media.tumblr.com/694b61d501b7d1f35c6912a0f066c752/9ccc1976ebfb1ea1-bf/s1280x1920/a22caa733672ebcddc1c842b56e60e383d37dafa.jpg"/>
+<img loading="lazy" src="https://64.media.tumblr.com/175b5867b9a3ca86eee38b81ff52ea66/c94b924efb767fbd-74/s1280x1920/5cffd4e6d144e2fec236b00b36bbe452873c72d6.pnj"/>
 </p>
 
 
